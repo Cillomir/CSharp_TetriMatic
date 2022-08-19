@@ -1,0 +1,12 @@
+C:\Users\joel_\OneDrive\NAIT Classes\CMPE2300_CSharp\J_Leckie_Lab02_TetriMatic\J_Leckie_Lab02_TetriMatic\bin\Debug\J_Leckie_Lab02_TetriMatic.exe.config
+C:\Users\joel_\OneDrive\NAIT Classes\CMPE2300_CSharp\J_Leckie_Lab02_TetriMatic\J_Leckie_Lab02_TetriMatic\bin\Debug\J_Leckie_Lab02_TetriMatic.exe
+C:\Users\joel_\OneDrive\NAIT Classes\CMPE2300_CSharp\J_Leckie_Lab02_TetriMatic\J_Leckie_Lab02_TetriMatic\bin\Debug\J_Leckie_Lab02_TetriMatic.pdb
+C:\Users\joel_\OneDrive\NAIT Classes\CMPE2300_CSharp\J_Leckie_Lab02_TetriMatic\J_Leckie_Lab02_TetriMatic\bin\Debug\GDIDrawer.dll
+C:\Users\joel_\OneDrive\NAIT Classes\CMPE2300_CSharp\J_Leckie_Lab02_TetriMatic\J_Leckie_Lab02_TetriMatic\obj\Debug\J_Leckie_Lab02_TetriMatic.csproj.AssemblyReference.cache
+C:\Users\joel_\OneDrive\NAIT Classes\CMPE2300_CSharp\J_Leckie_Lab02_TetriMatic\J_Leckie_Lab02_TetriMatic\obj\Debug\J_Leckie_Lab02_TetriMatic.Form1.resources
+C:\Users\joel_\OneDrive\NAIT Classes\CMPE2300_CSharp\J_Leckie_Lab02_TetriMatic\J_Leckie_Lab02_TetriMatic\obj\Debug\J_Leckie_Lab02_TetriMatic.Properties.Resources.resources
+C:\Users\joel_\OneDrive\NAIT Classes\CMPE2300_CSharp\J_Leckie_Lab02_TetriMatic\J_Leckie_Lab02_TetriMatic\obj\Debug\J_Leckie_Lab02_TetriMatic.csproj.GenerateResource.cache
+C:\Users\joel_\OneDrive\NAIT Classes\CMPE2300_CSharp\J_Leckie_Lab02_TetriMatic\J_Leckie_Lab02_TetriMatic\obj\Debug\J_Leckie_Lab02_TetriMatic.csproj.CoreCompileInputs.cache
+C:\Users\joel_\OneDrive\NAIT Classes\CMPE2300_CSharp\J_Leckie_Lab02_TetriMatic\J_Leckie_Lab02_TetriMatic\obj\Debug\J_Leckie_Lab02_TetriMatic.exe
+C:\Users\joel_\OneDrive\NAIT Classes\CMPE2300_CSharp\J_Leckie_Lab02_TetriMatic\J_Leckie_Lab02_TetriMatic\obj\Debug\J_Leckie_Lab02_TetriMatic.pdb
+C:\Users\joel_\OneDrive\NAIT Classes\CMPE2300_CSharp\J_Leckie_Lab02_TetriMatic\J_Leckie_Lab02_TetriMatic\obj\Debug\J_Leckie_Lab02_TetriMatic.ScoreWindow.resources
